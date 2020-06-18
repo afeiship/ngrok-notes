@@ -1,6 +1,5 @@
-# get-started
+# installation
 
-## mac installation
 ```shell
 # 1. install
 brew cask install ngrok
@@ -9,3 +8,4 @@ brew cask install ngrok
 ngrok --version
 # ngrok version 2.3.35
 ```
+
